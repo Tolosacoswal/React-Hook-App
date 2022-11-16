@@ -1,0 +1,17 @@
+esta app la vamos a trabajar con https://getbootstrap.com/ 
+todo lo que necesite saber se documentera en este archivo
+en esta pagina tomaremos el archivo de css 
+y en nuestro archivo index.html debajo de meta incluimos nuestro archivo de bootstrap
+cambiamos el nobre de nuestra app de vite + react a HooksApp
+
+vamos a empezar creando nuestra carpeta en la raiz  01-useStade y en esta carpeta iniciaremos creando el archivo counterApp
+ahora en el counterApp iniciamos con rafc
+creamos un fragmento ( <></>) como lo vemos en el parentesis y en su interior añadimos un h1 con el texto que deseamos en este caso ingreso 
+counter: creamos una linea (<hr/>) y luego un button <button></button> tambien puedo poner los botones que desee en este caso tendremos varios botones 
+
+
+
+
+
+
+
